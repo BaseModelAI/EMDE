@@ -12,7 +12,7 @@
  
 ## Applications
 
-<p align="left"><img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zomato_Logo.svg/2500px-Zomato_Logo.svg.png" /></p>
+<p align="left"><img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zomato_Logo.svg/2500px-Zomato_Logo.svg.png" /></p>
 
 _We are currently using EMDE  for generating candidates to facilitate downstream recommendation systems. It generates 
 recommendations using density-based rich customer representation. It allows us to trace customer look-alikes 
@@ -23,12 +23,12 @@ Cleora + EMDE gives us a generalised framework for recommendations […] We are 
 applications such as search ranking, dish recommendations, etc._\
 ~ **Zomato.com Data Science team** 
 
-<p align="left"><img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dailymotion_logo_%282017%29.svg" /></p>
+<p align="left"><img width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dailymotion_logo_%282017%29.svg" /></p>
 
 **Dailymotion** has applied **EMDE** to personalize video recommendations in native applications, leading to improved relevance
 and catalog coverage.
 
-<p align="left"><img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synerise_logo.svg/2560px-Synerise_logo.svg.png" /></p>
+<p align="left"><img width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synerise_logo.svg/2560px-Synerise_logo.svg.png" /></p>
 
 **Synerise** is using EMDE working with clients from many industries such as: 
 
