@@ -1,4 +1,4 @@
-# EMDE
+<p align="left"><img width="100%" src="images/EMDE-logo.png" /></p>
 
 ## Achievements
 
@@ -30,18 +30,16 @@ and catalog coverage.
 
 <p align="left"><img width="130" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synerise_logo.svg/2560px-Synerise_logo.svg.png" /></p>
 
-**Synerise** is using EMDE working with clients from many industries such as: 
-
+**Synerise** is using EMDE working with clients from many industries such as:\
 *retail*, *ecommerce*, *banking*, *telco*, *travel*, *health*, *insurance*, *automotive*, *fashion*
 
-for tasks including:
-
+for tasks including:\
 *recommendations*, *propensity prediction*, *churn prediction*, *anaomaly detection*, *customer scoring*, *customer 
 matching*, *behavioral super-segmentation* 
 
-# Efficient Manifold Density Estimator
+# EMDE
 
-**EMDE** is a framework utilizing arbitrary vector representations with the property of 
+**Efficient Manifold Density Estimator** is a framework utilizing arbitrary vector representations with the property of 
 local similarity to succinctly represent smooth probability densities on Riemannian manifolds.
 
 **EMDE** can be used to:
