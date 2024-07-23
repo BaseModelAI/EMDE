@@ -61,7 +61,7 @@ on a single GPU.**
 - [EMDE vs Multiresolution Hash Encoding](https://sair.synerise.com/emde-vs-multiresolution-hash-encoding/)
 - [Towards a multi-purpose behavioral model](https://sair.synerise.com/towards-a-multi-purpose-behavioral-model/)
 ## Papers
-- [An efficient manifold density estimator for all recommendation systems](https://9arxiv.org/abs/2006.01894)
+- [An efficient manifold density estimator for all recommendation systems](https://arxiv.org/abs/2006.01894)
 - [T-EMDE: Sketching-based global similarity for cross-modal retrieval](https://arxiv.org/abs/2105.04242)
 - [I know why you like this movie: Interpretable Efficient Multimodal Recommender](https://arxiv.org/abs/2006.09979)
 
